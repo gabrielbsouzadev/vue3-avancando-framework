@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>
-      <img alt="Alura Tracker" src="../assets/logo.png">
+      <img alt="Vitello Tracker" src="../assets/logo.png">
     </h1>
     <div class="has-text-centered">
       <button class="button" @click="alterarModo">Ativar modo {{ textoBtn }}</button>
